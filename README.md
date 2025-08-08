@@ -1,6 +1,6 @@
 <!-- Баннер -->
 <p align="center">
-  <img src="./banner.png" alt="Hi, my name is Pavel" width="100%" />
+  <img width="1725" height="462" alt="Hi, my name is Pavel" src="https://github.com/user-attachments/assets/9a99d9f3-cbb0-4a1e-a246-7a292e0acb52" />
 </p>
 
 ---
